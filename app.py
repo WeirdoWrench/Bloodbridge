@@ -8,7 +8,7 @@ app.secret_key = "your_secret_key"  # Needed for flash messages
 
 # Database configuration
 db_config = {
-    'host': 'bloodbridge-db.c3im0204sqil.eu-north-1.rds.amazonaws.com',
+    'host': 'bloodbridge-db.cdmu0wg0iduo.ap-southeast-2.rds.amazonaws.com',
     'user': 'admin',
     'password': 'bloodbridge',
     'database': 'bloodbridge'
